@@ -1,3 +1,5 @@
+# Musicle
+
 ## Inspiration
 The team was inspired by the popular game "Wordle". We wanted to create a fun game that could be played daily by everyone around the world which would also get people to start conversations about songs that they like to listen to.
 
