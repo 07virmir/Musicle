@@ -7,33 +7,27 @@ Musicle is a game played only once per day. The goal of the game is for the play
 ## How we built it
 Musicle was built with a combination of multiple frameworks and APIs.
 
-The Spotify API is used to query the global Spotify library for the daily song and also allows users to search for the daily song
-Firebase was used to host a list of daily songs. Song IDs are stored in a list and the app finds the daily song by using the current day number (counted from 01/01/2000)
-Apple's AVFoundation framework is used for playing the preview of the daily song
-UIKit is used for the app layout and animations
-Custom frameworks built by team members
-Accomplishments that we're proud of
+The Spotify API is used to query the global Spotify library for the daily song and also allows users to search for the daily song  
+Firebase was used to host a list of daily songs. Song IDs are stored in a list and the app finds the daily song by using the current day number (counted from 01/01/2000)  
+Apple's AVFoundation framework is used for playing the preview of the daily song  
+UIKit is used for the app layout and animations  
+Custom frameworks built by team members  
+Accomplishments that we're proud of  
 All team members are proud to announce that they have a 95%+ success rate in finding the daily song!
 
 ## What we learned
-How to integrate Firebase into our project
-How to fetch data from APIs
-How to play audio on iOS devices
-How to make display-linked animations
-What's next for Musicle
+How to integrate Firebase into our project  
+How to fetch data from APIs  
+How to play audio on iOS devices  
+How to make display-linked animations  
+What's next for Musicle  
 The AppStore!!!
-
-## Built With
-avfoundation
-firebase
-love
-spotify
-uikit
 
 ## Built With
 avfoundation  
 firebase  
+love  
 spotify  
-uikit
+uikit  
 
 See More Info Here: https://devpost.com/software/musicle
